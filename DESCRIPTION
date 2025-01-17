@@ -21,7 +21,7 @@ VignetteBuilder: knitr
 URL: https://bavodc.github.io/websiteCalibrationCurves/,
         https://bavodc.github.io/CalibrationCurves/
 NeedsCompilation: no
-Packaged: 2025-01-17 16:52:56 UTC; u0095171
+Packaged: 2025-01-17 17:00:01 UTC; u0095171
 Author: De Cock Bavo [aut, cre],
   Nieboer Daan [aut],
   Van Calster Ben [aut],
