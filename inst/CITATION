@@ -1,0 +1,52 @@
+citHeader("To cite the 'CalibrationCurves' R package in publications, please use:")
+
+bibentry(bibtype   = "Article",
+         title   = "A calibration hierarchy for risk models was defined: from utopia to empirical data",
+         author  = c(person(given = "Ben", family = "Van Calster"),
+                     person(given = "Daan", family = "Nieboer"),
+                     person(given = "Yvonne", family = "Vergouwe"),
+                     person(given = "Bavo", family = "De Cock"),
+                     person(given = "Michael J.", family = "Pencina"),
+                     person(given = "Ewout W.", family = "Steyerberg")),
+         journal = "Journal of Clinical Epidemiology",
+         year    = "2016",
+         volume  = "74",
+         pages   = "167--176",
+         doi     = "10.1016/j.jclinepi.2015.12.005",
+         textVersion =
+           paste("Van Calster, B., Nieboer, D., Vergouwe, Y., De Cock, B., Pencina, M.J., Steyerberg, E.W. (2016).",
+                 "A calibration hierarchy for risk models was defined: from utopia to empirical data.",
+                 "Journal of Clinical Epidemiology, 74, pp. 167-176.",
+                 "doi: 10.1016/j.jclinepi.2015.12.005."))
+
+
+bibentry(bibtype = "Manual",
+         title = "The CalibrationCurves package: assessing the agreement between observed outcomes and predictions.",
+         author  = c(person(given = "Bavo", family = "De Cock"),
+                     person(given = "Daan", family = "Nieboer"),
+                     person(given = "Ben", family = "Van Calster"),
+                     person(given = "Ewout W.", family = "Steyerberg"),
+                     person(given = "Yvonne", family = "Vergouwe")),
+         year = "2023",
+         note = "R package version 2.0.3",
+         doi = "10.32614/CRAN.package.CalibrationCurves",
+         url = "https://cran.r-project.org/package=CalibrationCurves",
+         textVersion  =
+           paste("De Cock, B., Nieboer, D., Van Calster, B., Steyerberg, E.W., Vergouwe, Y. (2023).",
+                 "The CalibrationCurves package: assessing the agreement between observed outcomes and predictions. R package version 2.0.3,",
+                 "doi: 10.32614/CRAN.package.CalibrationCurves, available at https://cran.r-project.org/package=CalibrationCurves")
+)
+
+bibentry(bibtype = "Article",
+  title = "Towards reliable predictive analytics: a generalized calibration framework",
+  author = c(person(given = "Bavo", family = "De Cock Campo")),
+  journal = "arXiv",
+  year = "2023",
+  pages = "2309.08559",
+  url = "https://arxiv.org/abs/2309.08559",
+  textVersion = paste("De Cock Campo, B. (2023).",
+    "Towards reliable predictive analytics: a generalized calibration framework.",
+    "arXiv: 2309.08559, available at https://arxiv.org/abs/2309.08559")
+)
+
+
